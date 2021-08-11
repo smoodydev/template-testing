@@ -1,0 +1,4 @@
+image:
+  file: .gitpod.dockerfile
+tasks:
+  - before: brew install git-lfs
